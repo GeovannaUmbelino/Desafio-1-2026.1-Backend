@@ -6,11 +6,11 @@ Este repositório contém a minha entrega para o Desafio 1 da trilha de capacita
 
 Durante este ciclo, foram concluídas as seguintes seções:
 
-- [x] **Basic Data Structures**: Manipulação de arrays e objetos.
-- [x] **Basic Algorithm Scripting**: Resolução de problemas fundamentais.
-- [x] **Object Oriented Programming (OOP)**: Princípios de classes, protótipos e herança.
-- [x] **Functional Programming**: Uso intensivo de métodos como `map`, `filter`, `reduce`, `sort`, `slice` e `concat`.
-- [x] **Intermediate Algorithm Scripting**: Desafios de lógica de nível intermediário.
+- [x] **Basic Data Structures**
+- [x] **Basic Algorithm Scripting**
+- [x] **Object Oriented Programming (OOP)**
+- [x] **Functional Programming**
+- [x] **Intermediate Algorithm Scripting**
 - [x] **JavaScript Algorithms and Data Structures Projects**: As 5 atividades finais para obtenção da certificação.
 
 ---
