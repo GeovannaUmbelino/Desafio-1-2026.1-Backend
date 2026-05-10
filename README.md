@@ -1,33 +1,44 @@
 # Desafio 1 - Algoritmos e Lógica de Programação em JavaScript
 
-Este desafio tem como objetivo resolver a última seção “JavaScript Algorithms and Data Structures Projects” do curso da FreeCodeCamp - Algoritmos e estruturas de dados em JavaScript, vocês deverão completar as 5 atividades dessa seção, salvar o código na pasta correta e enviar um print da seção concluída, por exemplo:
-![print](./assets/print.png)
+Este repositório contém a minha entrega para o Desafio 1 da trilha de capacitação em Back-end da **EngNet Consultoria**.O projeto consiste na  resoluções dos desafios propostos no curso **JavaScript Algorithms and Data Structures** do freeCodeCamp. 
 
-> Note que é possível criar um certificado depois de concluir as 5 atividades.
+## 📌 Escopo do Ciclo de Capacitação
 
-Caso surjam dúvidas, você pode utilizar o canal da capacitação no slack, contatar algum membro ou conversar com seu squad.
+Durante este ciclo, foram concluídas as seguintes seções:
 
-Você deve realizar um fork deste repositório para sua conta pessoal no GitHub. A entrega só será considerada válida se estiver incluída em uma release no GitHub. Se o candidato não souber como realizar um Fork, Commit, Push e uma Release no GitHub, deverá pesquisar ou pedir ajuda. O desafio também avaliará sua independência.
+- [x] **Basic Data Structures**: Manipulação de arrays e objetos.
+- [x] **Basic Algorithm Scripting**: Resolução de problemas fundamentais.
+- [x] **Object Oriented Programming (OOP)**: Princípios de classes, protótipos e herança.
+- [x] **Functional Programming**: Uso intensivo de métodos como `map`, `filter`, `reduce`, `sort`, `slice` e `concat`.
+- [x] **Intermediate Algorithm Scripting**: Desafios de lógica de nível intermediário.
+- [x] **JavaScript Algorithms and Data Structures Projects**: As 5 atividades finais para obtenção da certificação.
 
-Além de de realizar o desafio proposto, o trainee deverá colocar os 5 desafios solucionados no repositório do github que o trainee realizou o fork. Caso o trainee envie o projeto sem as devidas soluções, a entrega será desconsiderada.
+---
 
-## Links Importantes
+## 🏆 Projetos Finais de Certificação
 
-- Link do FreeCodeCamp:
+Os códigos que solucionam as 5 atividades obrigatórias estão disponíveis neste repositório:
+1. **Palindrome Checker**
+2. **Roman Numeral Converter**
+3. **Caesars Cipher**
+4. **Telephone Number Validator**
+5. **Cash Register**
 
-    https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-    
-- Link do repositório com todos os comandos de git e github:
+---
 
-    https://gist.github.com/leocomelli/2545add34e4fec21ec16
+## 📸 Comprovação de Conclusão
 
-- Link do w3school:
+Abaixo estão os registros que validam a conclusão dos módulos e projetos exigidos:
 
-    https://www.w3schools.com/js/default.asp
+### Atividades Realizadas
+![Print das Atividades Concluídas](./assets/print.png)
 
-## Entrega
+### Certificado
+![Certificado freeCodeCamp](./assets/certificacao_freecodecamp.png)
 
-- A entrega do desafio deve ser realizada através de uma Release no GitHub.
-  - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
-- O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.# nickby2-Desafio-1-2024.2
-# Desafio-1-2024.1-Frontend
+---
+
+## 🛠️ Tecnologias
+- JavaScript 
+- Git e GitHub
+
